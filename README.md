@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Punit
 
 <!--
 **Punit3112/Punit3112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,7 +23,18 @@ Here are some ideas to get you started:
 - 📄 Know about my experiences https://www.linkedin.com/in/punit-tripathi-9949371ba/
 
   🌐 Languages and Tools :
+
   ![image](https://github.com/user-attachments/assets/6f93a1c9-69ce-4050-9a34-076b2546bcdd)
   ![image](https://github.com/user-attachments/assets/591add1c-8057-439e-9bec-bfcb0338978f)
+  ![image](https://github.com/user-attachments/assets/50960fdc-db57-4888-850e-a6784dc7defc)
+  ![image](https://github.com/user-attachments/assets/3905f7a6-ca6b-4ce0-a387-25d43c271416)
+  ![image](https://github.com/user-attachments/assets/aaaeb738-8529-4354-b033-4c7b5170f906)
+  ![image](https://github.com/user-attachments/assets/c6cbdf64-01f7-453a-b4bd-cbcb054da8ff)
+  ![image](https://github.com/user-attachments/assets/5ec1288f-67b5-4c7b-b82c-279cc784ca4e)
+
+
+
+
+
 
 
